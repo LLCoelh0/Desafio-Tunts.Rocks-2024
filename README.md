@@ -7,3 +7,5 @@ Google Sheets API and python.
 Python file and the values will calculate and updated in the specific worksheet 
 and will create a log file with all steps of the application for further verification 
 by the judges.
+
+https://docs.google.com/spreadsheets/d/1F0Mo_CrKpUj4qqq8vGEDTLhfOClg8v-W082kFJqH4wQ/edit#gid=0
